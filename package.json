@@ -1,0 +1,37 @@
+{
+    "name": "react-native-aes-crypto",
+    "version": "3.0.3",
+    "description": "AES crypto native module for react-native",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "author": "RicardoGuiliani",
+    "license": "MIT",
+    "keywords": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "aes",
+        "crypto",
+        "mobile",
+        "async",
+        "sha1",
+        "sha256",
+        "sha512",
+        "pbkdf2",
+        "hmac256",
+        "hmac512",
+        "uuid"
+    ],
+    "homepage": "https://github.com/RicardoGuiliani/react-native-aes",
+    "bugs": {
+        "url": "https://github.com/RicardoGuiliani/react-native-aes/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/RicardoGuiliani/react-native-aes.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
